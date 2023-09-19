@@ -1,4 +1,4 @@
-# jingdong_project
+# jingxi_project
 
 ## Project setup
 ```
